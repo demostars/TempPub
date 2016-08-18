@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY server01.pac.itzmx.com:25;";
+var proxy = "PROXY 188.166.214.215:25;";
 
 var domains = {
   "download.kolor.com": 1,
